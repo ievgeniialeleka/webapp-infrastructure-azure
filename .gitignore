@@ -1,0 +1,5 @@
+run_terraform.sh
+destroy_terraform.sh
+
+terraform.tfstate
+terraform.tfstate.backup
